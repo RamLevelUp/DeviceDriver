@@ -1,0 +1,8 @@
+../Driver/src/stm32f303RE_SPI_driver.c:32:6:SPI_PeriClockControl	16	static
+../Driver/src/stm32f303RE_SPI_driver.c:89:6:SPI_Init	24	static
+../Driver/src/stm32f303RE_SPI_driver.c:150:6:SPI_DeInit	16	static
+../Driver/src/stm32f303RE_SPI_driver.c:185:6:SPI_TransmitData	24	static
+../Driver/src/stm32f303RE_SPI_driver.c:218:6:SPI_ReceiveData	24	static
+../Driver/src/stm32f303RE_SPI_driver.c:247:7:SPI_SSOEConfig	16	static
+../Driver/src/stm32f303RE_SPI_driver.c:273:6:SPI_PeripheralControl	16	static
+../Driver/src/stm32f303RE_SPI_driver.c:299:9:SPI_GetFlagStatus	16	static

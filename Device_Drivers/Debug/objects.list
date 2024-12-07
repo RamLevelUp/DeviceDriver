@@ -1,0 +1,6 @@
+"./Driver/src/stm32f303RE_SPI_driver.o"
+"./Driver/src/stm32f303RE_gpio_driver.o"
+"./Src/ButtonToggle.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f303retx.o"
